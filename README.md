@@ -4,7 +4,7 @@ This is a one-button project that manages to change the background theme to dark
 
 This project also has the ability to save its last state in Local Storange.
 
-![Exemplo]{./assets/Example.gif}
+![Exemplo](https://github.com/Pedro-Italo-BC/ChangeThemes/blob/main/assets/Example.gif)
 
 This project was an exercise in the Rocketseat programming course
 
