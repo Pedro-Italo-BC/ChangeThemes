@@ -8,7 +8,7 @@ This project also has the ability to save its last state in Local Storange.
 
 This project was an exercise in the Rocketseat programming course
 
-You can this link (https://pedro-italo-bc.github.io/ChangeThemes/) to acess the page
+You can use this link (https://pedro-italo-bc.github.io/ChangeThemes/) to acess the page
 
 Any suggestions for changes are welcome.
 ~
